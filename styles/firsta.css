@@ -1,0 +1,130 @@
+.btn-primary{ background-color: #4E47FF; color:#FFFFFF; padding: 12px 36px; font-weight:bold;
+ font-size:16px; border:none; border-radius: 10px; line-height: 150%;}
+
+nav{ display: flex; align-items: center; justify-content: space-between;}
+/* shared styles */
+.primary {color: #4E47FF; font-size: 34px; font-weight: 800px;}
+
+
+.inter-logof{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-size: 34px;
+  font-style: normal;
+  color: #4E47FF;
+}
+.interbold{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-size: 80px;
+  font-style: normal;
+  color: #4E47FF;
+}
+.interregular{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: regular;
+  font-size: 20px;
+  font-style: normal;
+  color: #000000;
+}
+.inter-footer{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-size: 100px;
+  font-style: normal;
+  text-align: center;
+  color: #4E47FF;
+}
+.raleway-font{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-size: 65px;
+  font-style: normal;
+}
+.raleway-action{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 42px;
+  font-style: normal;
+}
+.raleway-paction{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 38px;
+  font-style: normal; text-align: center;
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+.raleway-focus{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: normal;
+}
+.base {font-size:18px; font-weight: lighter; }
+
+
+.pcontent {font-size: 24px;font-weight: normal; color: #252432;}
+.content {width: 517px; height: 203px; color: #252432;}
+.fpara {border: none, max-width: 1140px; margin-left:130px; margin-right:169px; margin-top:116px; margin-bottom=116px}
+.side{display: flex; justify-content:      ;}
+
+
+
+.image1 {width:403px; height:328px; border-radius:48px;}
+.image2 {width: 840; height: 364.77; border-radius: 48px;}
+
+.header {background-image: url(../Assets/Hero-bg.png); background-repeat: no-repeat; min-width: 100%; min-height: 500%; background-position: center; background-size: cover; padding: 309px 267.5px 237px 267.5px; text-align: center; background-attachment: fixed;}
+
+.textc {text-align: center;}
+
+.light{background-color: #FFFFFF; width: 1440px; height: 428px;}
+
+.thirdpara {border: none, margin-left: 141px; margin-right: 159px; margin-top: 116px; margin-bottom: 186px; max-width: 1140px; padding:80px; background-position: center; background-color: rgba(78, 71, 255, 0.1); } 
+
+.thirdparaalign { display: flex; justify-items:flex-end; justify-content: space-around; padding-bottom: 50px; padding-left: 145px; padding-right: 150px;}
+.joined { padding: 50px 211px 142px 142px}
+.active{max-width: 186px; max-height: 121px;}
+
+
+.raleway-lets{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 97px;
+  font-weight: bold;
+  font-style: normal;
+}
+.raleway-what{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 42px;
+  font-weight: bold;
+  font-style: normal; text-align: center;
+}
+.starreviews{ display: flex; justify-content: center; width: 366; height: 243; padding:50px;
+.star {font-family: "Raleway", sans-serif; color: rgba(30, 30, 30, 1);}
+
+.date{ color: rgba(117, 117, 117, 1); font-size: x-small;}
+
+
+
+.fifthpara {display: flex;  justify-content: space-around; }
+
+.inter-email{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: regular;
+  font-size: 18px;
+  font-style: medium;
+  color: #000000;
+}
+
+
+.logodes { font-size: 12px; color: rgba(137, 135, 161, 1); text-align: center;}
+.li-foot { list-style: none; display: flex; margin: 0; justify-content: space-around; width: 401px; height: 24px; color: rgba(137, 135, 161, 1); margin-top: 44px; }
