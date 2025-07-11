@@ -112,19 +112,16 @@ nav{ display: flex; align-items: center; justify-content: space-between;}
 
 .date{ color: rgba(117, 117, 117, 1); font-size: x-small;}
 
-
-
-.fifthpara {display: flex;  justify-content: space-around; }
+.parafifth {display: flex; justify-content: center;  gap:50px; padding: 130px 50px; }
 
 .inter-email{
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight: regular;
+  font-weight: normal;
   font-size: 18px;
   font-style: medium;
   color: #000000;
 }
-
-
 .logodes { font-size: 12px; color: rgba(137, 135, 161, 1); text-align: center;}
-.li-foot { list-style: none; display: flex; margin: 0; justify-content: space-around; width: 401px; height: 24px; color: rgba(137, 135, 161, 1); margin-top: 44px; }
+.li-foot { list-style: none; display: flex; margin: 0; justify-content: space-around; width: 401px; height: 24px; color: rgba(137, 135, 161, 1); margin-top: 44px;}
+footer input[type="text"] {height: 60px; background-color: #FFFFFF; padding: 32px;}
