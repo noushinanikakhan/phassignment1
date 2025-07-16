@@ -72,8 +72,8 @@ nav{ display: flex; align-items: center; justify-content: space-between;}
 
 .pcontent {font-size: 24px;font-weight: normal; color: #252432;}
 .content {width: 517px; height: 203px; color: #252432;}
-.fpara {border: none, max-width: 1140px; margin-left:130px; margin-right:169px; margin-top:116px; margin-bottom=116px}
-.side{display: flex; justify-content:      ;}
+.fpara {border: none; max-width: 1140px; margin-left:130px; margin-right:169px; margin-top:116px; margin-bottom: 116px}
+.side{display: flex; justify-content: center ;}
 
 
 
@@ -86,7 +86,7 @@ nav{ display: flex; align-items: center; justify-content: space-between;}
 
 .light{background-color: #FFFFFF; width: 1440px; height: 428px; text-align: center;}
 
-.thirdpara {border: none, margin-left: 141px; margin-right: 159px; margin-top: 116px; margin-bottom: 186px; max-width: 1140px; padding:80px; background-position: center; background-color: rgba(78, 71, 255, 0.1); padding: 50px; background-radious: 30px } 
+.thirdpara {border: none; margin-left: 141px; margin-right: 159px; margin-top: 116px; margin-bottom: 186px; max-width: 1140px; padding:80px; background-position: center; background-color: rgba(78, 71, 255, 0.1); padding: 50px; background-radious: 30px } 
 
 .thirdparaalign { display: flex; justify-items:flex-end; justify-content: space-around; padding-bottom: 50px; padding-left: 145px; padding-right: 150px; margin-top: 50px;}
 .joined { padding: 50px 211px 142px 142px}
