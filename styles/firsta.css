@@ -107,7 +107,7 @@ nav{ display: flex; align-items: center; justify-content: space-between;}
   font-weight: bold;
   font-style: normal; text-align: center;
 }
-.starreviews{ display: flex; justify-content: center; width: 366; height: 243; padding:50px;
+.starreviews{ display: flex; justify-content: center; width: 366; height: 243; padding:50px;}
 .star {font-family: "Raleway", sans-serif; color: rgba(30, 30, 30, 1);}
 
 .date{ color: rgba(117, 117, 117, 1); font-size: x-small;}
